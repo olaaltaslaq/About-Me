@@ -1,0 +1,31 @@
+header{
+    background-color: #c72c41;
+    text-align: center;
+}
+
+#p1{
+    color: #c72c41;
+    background-color: #ffe8bd;
+    text-align: center;
+    padding: 5%;
+}
+#taxtgit{
+    color: #ffe8bd;
+    background-color: #c72c41;
+    text-align: center;
+    padding: 1%;
+}
+#gitbutton{
+    color: #c72c41;
+    background-color: #ffe8bd;
+}
+#pic{
+    background-color: #ffe8bd;
+    text-align: center;
+}
+footer{
+    color: #ffe8bd;
+    background-color: #c72c41;
+    text-align: center;
+    padding: .3%;
+}
