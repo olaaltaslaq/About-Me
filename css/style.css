@@ -9,23 +9,48 @@ header{
     text-align: center;
     padding: 5%;
 }
+
+#edu{
+    background-color: #c72c41;
+    color: #ffe8bd;
+    text-align: center;
+    padding: 5%;
+}
+
+#pe{
+    color: #c72c41;
+    background-color: #ffe8bd;
+    text-align: center;
+    padding: 5%;
+}
+
 #taxtgit{
     color: #ffe8bd;
     background-color: #c72c41;
     text-align: center;
     padding: 1%;
 }
+
 #gitbutton{
     color: #c72c41;
     background-color: #ffe8bd;
 }
+
 #pic{
     background-color: #ffe8bd;
     text-align: center;
 }
-footer{
+
+#sing{
     color: #ffe8bd;
     background-color: #c72c41;
+    text-align: center;
+    padding: 5%;
+}
+
+footer{
+    color: #c72c41;
+    background-color: #ffe8bd;
     text-align: center;
     padding: .3%;
 }
