@@ -7,7 +7,8 @@ if (userName) {
 
 }
 
-
+function intro(){
+  
 let myName = prompt('Do you think my name is ola? yes or no');
 switch (myName.toLowerCase()) {
 case 'yes':
@@ -97,7 +98,8 @@ default:
   break;
 }
 
-
+}
+intro()
 let birthday=0;
 for(let i = 0; i < 4 ; i++){
   birthday = prompt('Can you guess what my birthday number is?');
