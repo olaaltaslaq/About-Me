@@ -68,7 +68,6 @@ function intro() {
     break;
   }
 
-
   let myCode = prompt('Do you think i\'m a Nutritionist and i can\'t learning coding? yes or no');
   switch (myCode.toUpperCase()) {
   case 'YES':
@@ -87,8 +86,6 @@ function intro() {
     console.log('you have to answer');
     break;
   }
-
-
   let myGoal = prompt('Do you think my future goal is to create my own company? yes or no');
   switch (myGoal.toLowerCase()) {
   case 'yes':
